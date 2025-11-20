@@ -27,10 +27,10 @@ Additionally, it helps users understand how the sales revenue evolved over time,
 - In which months does the business generate the strongest revenue, and are there any recurring patterns?
 - How has business performance evolved over time (2020 vs. 2017 or year-over-year comparisons)?
   
-**Insights Example**
+#### Insights Example
 One particularly interesting observation is that the Ahmedabad market generated the 3rd highest revenue (130M INR) while ranking only 5th in sales quantity. This suggests that higher-value products are selling more successfully in that region. The business could test a similar pricing or product-mix strategy  in the Nagpur market, where the quantity sold is ~30% higher than in Ahmedabad, yet revenue is less than 50%.
 
-***Personal Contributions***
+### Personal Contributions
 To practice and build upon the insights gained from the tutorials, I created two additional secondary dashboards for a more in-depth analysis:
 1. *Sales Insights* - this report can help the users with two different perspectives:
    1. For a selected product users can see when did it sell the best, to which client and where
@@ -38,3 +38,20 @@ To practice and build upon the insights gained from the tutorials, I created two
 >Note: I calculated the Monthly Sales Quantity Target KPI as an average of the sales quantity in 2019 (71.000) approximated to 75.000 to highlight **growth potential**.
 
 2. *Consumer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their monthly number of order on average, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
+
+### 4.Conclusions & Business Recommendations (Fictive)
+Conclusions:
+- Revenue growth peaked in the summer months (July/August) for 2018 and 2019.
+- Overall revenue trend is declining; in January 2020, revenue dropped by ~40% compared to January 2018.
+- The Delhi NCR region is the top market by both revenue and sales quantity.
+- The Electricalsara Stores customer consistently contributed the most to total revenue.
+- December appears to have the lowest number of products sold.
+- In 2019, the Monthly Sales KPI was exceeded in 25% of the months, compared to ~75% in 2018, reflecting a decreasing demand.
+- Most customers had a diverse Customer Purchase Mix.
+
+Recommendations:
+•      Focus marketing and sales efforts on high-value products in regions with high revenue per unit, like Ahmedabad.
+•	Communicate with clients in the brick-and-mortar sector to understand low sales performance (25% of consumers are in this segment).
+•	Adjust inventory and promotion strategies to align with seasonal demand patterns.
+•	Investigate customers with decreasing purchase trends to identify reasons (e.g., switching suppliers, product dissatisfaction).
+
