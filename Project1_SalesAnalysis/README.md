@@ -50,8 +50,7 @@ Conclusions:
 - Most customers had a diverse Customer Purchase Mix.
 
 Recommendations:
-•      Focus marketing and sales efforts on high-value products in regions with high revenue per unit, like Ahmedabad.
-•	Communicate with clients in the brick-and-mortar sector to understand low sales performance (25% of consumers are in this segment).
-•	Adjust inventory and promotion strategies to align with seasonal demand patterns.
-•	Investigate customers with decreasing purchase trends to identify reasons (e.g., switching suppliers, product dissatisfaction).
-
+- Focus marketing and sales efforts on high-value products in regions with high revenue per unit, such as Ahmedabad.
+- Communicate with clients in the brick-and-mortar sector to understand low sales performance (25% of consumers are in this segment).
+- Adjust inventory and promotion strategies to align with seasonal demand patterns.
+- Investigate customers with decreasing purchase trends to identify reasons (e.g., switching suppliers, product dissatisfaction).
