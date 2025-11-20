@@ -20,7 +20,7 @@ The structure of the Main Dashboard and the core visualizations were built follo
 -	Total revenue,
 -	Total sales quantity
 -	Total number of orders
-  
+
 Additionally, it helps users understand how the sales revenue evolved over time, or for any selected time period, through rankings of the top-performing products, customers and sales regions that collectively generated the highest revenue. This dashboard can help business stakeholders **answer questions** such as:
 - Which products and regions generate the highest revenue?
 - Which clients contribute the most to total revenue?
