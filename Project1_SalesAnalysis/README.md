@@ -33,20 +33,20 @@ One particularly interesting observation is that the Ahmedabad market generated 
 ### Personal Contributions
 To practice and build upon the insights gained from the tutorials, I created two additional secondary dashboards for a more in-depth analysis:
 1. *Sales Insights* - this report can help the users with two different perspectives:
-   1. For a selected product users can see when did it sell the best, to which client and where
+   1. For a selected product, users can see when it sold best, to which customers, and where.
    2. For a specific month(year) in the analyzed period, the treemap will show where the most products were sold, to which customers and whether the **Monthly Sales Quantity Target (KPI)** was achieved or exceeded. (Example available in the pdf)
 >Note: I calculated the Monthly Sales Quantity Target KPI as an average of the sales quantity in 2019 (71.000) approximated to 75.000 to highlight **growth potential**.
 
-2. *Consumer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their monthly number of order on average, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
+2. *Consumer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their average monthly number of orders, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
 
-### 4.Conclusions & Business Recommendations (Fictive)
+### 4. Conclusions & Business Recommendations (Fictive)
 Conclusions:
 - Revenue growth peaked in the summer months (July/August) for 2018 and 2019.
 - Overall revenue trend is declining; in January 2020, revenue dropped by ~40% compared to January 2018.
 - The Delhi NCR region is the top market by both revenue and sales quantity.
 - The Electricalsara Stores customer consistently contributed the most to total revenue.
 - December appears to have the lowest number of products sold.
-- In 2019, the Monthly Sales KPI was exceeded in 25% of the months, compared to ~75% in 2018, reflecting a decreasing demand.
+- In 2019, the Monthly Sales KPI was exceeded in 25% of the months, compared to ~75% in 2018, reflecting a decline in demand.
 - Most customers had a diverse Customer Purchase Mix.
 
 Recommendations:
@@ -54,3 +54,7 @@ Recommendations:
 - Communicate with clients in the brick-and-mortar sector to understand low sales performance (25% of consumers are in this segment).
 - Adjust inventory and promotion strategies to align with seasonal demand patterns.
 - Investigate customers with decreasing purchase trends to identify reasons (e.g., switching suppliers, product dissatisfaction).
+  
+### Personal Reflection
+
+My most important takeaways from this project were understanding the process of building a data analysis project — from performing ETL on raw data to creating clear and insightful visualizations — and learning about the AIMS Grid, which is helpful for clarifying tasks and defining project goals. Moreover, I strengthened my SQL skills and developed the ability to design visualizations and analyses that answer specific business questions and extract valuable insights from raw data.
