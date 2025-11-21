@@ -1,6 +1,6 @@
 # Sales Data Analysis Project
 
-This Power BI dashboard structured in 3 pages analyzes sales data, while helping users track revenue growth, product performance and customer buying patterns over time through interactive visualizations.
+The objective of this project was to build a Power BI dashboard that transforms raw data into meaningful insights by tracking revenue growth, product performance and customer buying patterns over time through interactive visualizations. The report enables users to explore sales results from multiple perspectives and supports data-driven decision-making.
 ## Table of Contents
 - [Sources and Tutorials](#1-sources-and-tutorials)
 - [Tools](#2-tools)
