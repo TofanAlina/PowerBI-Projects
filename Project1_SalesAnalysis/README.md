@@ -20,7 +20,7 @@ No sensitive or real company data is included.
 - DAX – for calculated measures and KPIs
 - Power BI Desktop – for building interactive dashboards and visual analytics
 
-### 3. Project Components + Personal Contributions
+### 3. Project Components and Personal Contributions
 
 ![Dashboard Preview](MainDashboard.png)
        
