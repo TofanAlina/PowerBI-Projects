@@ -1,6 +1,7 @@
 # Sales Data Analysis Project
 
 The objective of this project was to build a Power BI dashboard that transforms raw data into meaningful insights by tracking revenue growth, product performance and customer buying patterns over time through interactive visualizations. The report enables users to explore sales results from multiple perspectives and supports data-driven decision-making.
+> The PBIX file includes all data imported directly into the model, so no external database connection is required to explore the dashboard.
 ## Table of Contents
 - [Sources and Tutorials](#1-sources-and-tutorials)
 - [Tools](#2-tools)
