@@ -9,7 +9,7 @@ This Power BI dashboard structured in 3 pages analyzes sales data, while helping
 
 ### 1. Sources and Tutorials
 
-This project was created following these tutorials: [Codebasics Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=_hUiMtjbXMgH6Uvi) as a starting point, with additional dashboards, analyses & visualizations implemented by me as personal contributions. The sample dataset used can be found here: [Sales Insights Dataset](https://codebasics.io/resources/sales-insights-data-analysis-project) , it was provided by the tutorial author and simulates the activity of a computer hardware business in India interested in sales insights. 
+This project was created following these tutorials: [Codebasics Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=_hUiMtjbXMgH6Uvi) as a starting point, with additional dashboards, analyses & visualizations implemented by me as project extensions. The sample dataset used can be found here: [Sales Insights Dataset](https://codebasics.io/resources/sales-insights-data-analysis-project) , it was provided by the tutorial author and simulates the activity of a computer hardware business in India interested in sales insights. 
 No sensitive or real company data is included.
 
 ### 2. Tools
@@ -39,11 +39,12 @@ One particularly interesting observation is that the Ahmedabad market generated 
 
 ### Personal Contributions
 To practice and build upon the insights gained from the tutorials, I created two additional secondary dashboards for a more in-depth analysis:
+![SalesInsights Preview](SaleInsightsCase1.png)
 1. *Sales Insights* - this report can help the users with two different perspectives:
    - For a selected product, users can see when it sold best, to which customers, and where. (Example above)
    - For a specific month(year) in the analyzed period, the treemap will show where the most products were sold, to which customers and whether the **Monthly Sales Quantity Target (KPI)** was achieved or exceeded. (Example available in the pdf)
 >Note: I calculated the Monthly Sales Quantity Target KPI as an average of the sales quantity in 2019 (71.000) approximated to 75.000 to highlight **growth potential**.
-
+![Consumer Insights Preview](ConsumerInsights.png)
 2. *Consumer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their average monthly number of orders, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
 
 ### 4. Conclusions & Business Recommendations (Fictive)
