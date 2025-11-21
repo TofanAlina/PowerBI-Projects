@@ -21,7 +21,7 @@ No sensitive or real company data is included.
 
 ### 3. Base Components + Personal Contributions
 
-![Dashboard Preview](SalesDashboard.png)
+![Dashboard Preview](MainDashboard.png)
        
 The structure of the Main Dashboard and the core visualizations were built following the tutorial. This dashboard provides an **overall view of business performance** across the analyzed time period (June 2017 – June 2020), highlighting:
 -	Total revenue,
