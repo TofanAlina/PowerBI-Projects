@@ -3,20 +3,25 @@
 This Power BI dashboard structured in 3 pages analyzes sales data, while helping users track revenue growth, product performance and customer buying patterns over time through interactive visualizations.
 ## Table of Contents
 - [Sources and Tutorials](#sources-and-tutorials)
+- [Tools](#tools)
+- [Base Components and Personal Contributions](#base-components-and-personal-contributions)
+- 
 
 ### 1. Sources and Tutorials
 
 This project was created following these tutorials: [Codebasics Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=_hUiMtjbXMgH6Uvi) as a starting point, with additional dashboards, analyses & visualizations implemented by me as personal contributions. The sample dataset used can be found here: [Sales Insights Dataset](https://codebasics.io/resources/sales-insights-data-analysis-project) , it was provided by the tutorial author and simulates the activity of a computer hardware business in India interested in sales insights. 
 No sensitive or real company data is included.
 
-### 2. Technologies Used
+### 2. Tools
 
 - MySQL Server & MySQL Workbench – used to store the dataset, for initial analysis/exploring the raw data and cross-check results from Power BI
 - Power Query – for data cleaning, transformation and data modeling
 - DAX – for calculated measures and KPIs
 - Power BI Desktop – for building interactive dashboards and visual analytics
 
-### 3. Base Components (from Tutorial) + Personal Contributions
+### 3. Base Components + Personal Contributions
+
+![Dashboard Preview](SalesDashboard.png)
        
 The structure of the Main Dashboard and the core visualizations were built following the tutorial. This dashboard provides an **overall view of business performance** across the analyzed time period (June 2017 – June 2020), highlighting:
 -	Total revenue,
