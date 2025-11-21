@@ -22,7 +22,7 @@ No sensitive or real company data is included.
 
 ### 3. Project Components and Personal Contributions
 
-![Dashboard Preview](MainDashboard.png)
+<img src="MainDashboard.png" width="650">
        
 The structure of the Main Dashboard and the core visualizations were built following the tutorial. This dashboard provides an **overall view of business performance** across the analyzed time period (June 2017 – June 2020), highlighting:
 -	Total revenue,
@@ -39,14 +39,17 @@ Additionally, it helps users understand how the sales revenue evolved over time,
 One particularly interesting observation is that the Ahmedabad market generated the 3rd highest revenue (130M INR) while ranking only 5th in sales quantity. This suggests that higher-value products are selling more successfully in that region. The business could test a similar pricing or product-mix strategy  in the Nagpur market, where the quantity sold is ~30% higher than in Ahmedabad, yet revenue is less than 50%.
 
 ### Personal Contributions
+<img src="SaleInsightsCase1.png" width="650">
+
 To practice and build upon the insights gained from the tutorials, I created two additional secondary dashboards for a more in-depth analysis:
-![SalesInsights Preview](SaleInsightsCase1.png)
 1. *Sales Insights* - this report can help the users with two different perspectives:
    - For a selected product, users can see when it sold best, to which customers, and where. (Example above)
    - For a specific month(year) in the analyzed period, the treemap will show where the most products were sold, to which customers and whether the **Monthly Sales Quantity Target (KPI)** was achieved or exceeded. (Example available in the pdf)
 >Note: I calculated the Monthly Sales Quantity Target KPI as an average of the sales quantity in 2019 (71.000) approximated to 75.000 to highlight **growth potential**.
-![Consumer Insights Preview](ConsumerInsights.png)
-2. *Consumer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their average monthly number of orders, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
+
+<img src="ConsumerInsights.png" width="650">
+
+2. *Customer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their average monthly number of orders, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
 
 ### 4. Conclusions And Business Recommendations
 Insights:
