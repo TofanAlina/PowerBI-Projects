@@ -5,7 +5,7 @@ This Power BI dashboard structured in 3 pages analyzes sales data, while helping
 - [Sources and Tutorials](#sources-and-tutorials)
 - [Tools](#tools)
 - [Project Components and Personal Contributions](#project-components-and-personal-contributions)
-- [Conclusions & Business Recommendations](#conclusions-&-business-recommendations)
+- [Conclusions And Business Recommendations](#conclusions-and-business-recommendations)
 - [Personal Reflection](#personal-reflection)
   
 ### 1. Sources and Tutorials
@@ -48,7 +48,7 @@ To practice and build upon the insights gained from the tutorials, I created two
 ![Consumer Insights Preview](ConsumerInsights.png)
 2. *Consumer Insights* - this dashboard serves the users with a detailed **buying profile** of a selected customer through a Customer Purchase Mix Analysis and their average monthly number of orders, while also highlighting any notable shopping behavior patterns observed over the three-year analyzed period.
 
-### 4. Conclusions & Business Recommendations
+### 4. Conclusions And Business Recommendations
 Insights:
 - Revenue growth peaked in the summer months (July/August) for 2018 and 2019.
 - Overall revenue trend is declining; in January 2020, revenue dropped by ~40% compared to January 2018.
