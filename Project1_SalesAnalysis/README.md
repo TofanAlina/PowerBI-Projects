@@ -54,7 +54,7 @@ To practice and build upon the insights gained from the tutorials, I created two
 ### 4. Conclusions And Business Recommendations
 Insights:
 - Revenue growth peaked in the summer months (July/August) for 2018 and 2019.
-- Overall revenue trend is declining; in January 2020, revenue dropped by ~40% compared to January 2018.
+- Overall revenue trend is declining: in January 2020, revenue dropped by ~40% compared to January 2018.
 - The Delhi NCR region is the top market by both revenue and sales quantity.
 - The Electricalsara Stores customer consistently contributed the most to total revenue.
 - December appears to have the lowest number of products sold.
