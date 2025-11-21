@@ -4,9 +4,10 @@ This Power BI dashboard structured in 3 pages analyzes sales data, while helping
 ## Table of Contents
 - [Sources and Tutorials](#sources-and-tutorials)
 - [Tools](#tools)
-- [Base Components and Personal Contributions](#base-components-and-personal-contributions)
-- 
-
+- [Project Components and Personal Contributions](#project-components-and-personal-contributions)
+- [Conclusions And Business Recommendations](#conclusions-&-business-recommendations)
+- [Personal Reflection](#personal-reflections)
+  
 ### 1. Sources and Tutorials
 
 This project was created following these tutorials: [Codebasics Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=_hUiMtjbXMgH6Uvi) as a starting point, with additional dashboards, analyses & visualizations implemented by me as project extensions. The sample dataset used can be found here: [Sales Insights Dataset](https://codebasics.io/resources/sales-insights-data-analysis-project) , it was provided by the tutorial author and simulates the activity of a computer hardware business in India interested in sales insights. 
@@ -19,7 +20,7 @@ No sensitive or real company data is included.
 - DAX – for calculated measures and KPIs
 - Power BI Desktop – for building interactive dashboards and visual analytics
 
-### 3. Base Components + Personal Contributions
+### 3. Project Components + Personal Contributions
 
 ![Dashboard Preview](MainDashboard.png)
        
@@ -56,7 +57,6 @@ Insights:
 - December appears to have the lowest number of products sold.
 - In 2019, the Monthly Sales KPI was exceeded in 25% of the months, compared to ~75% in 2018, reflecting a decline in demand.
 - Most customers had a diverse Customer Purchase Mix.
->Note: The insights and business recommendations included in this file are based on my own interpretation and analysis of the dataset.
 
 Recommendations:
 - Focus marketing and sales efforts on high-value products in regions with high revenue per unit, such as Ahmedabad.
@@ -67,3 +67,4 @@ Recommendations:
 ### Personal Reflection
 
 My most important takeaways from this project were understanding the process of building a data analysis project — from performing ETL on raw data to creating clear and insightful visualizations — and learning about the AIMS Grid, which is helpful for clarifying tasks and defining project goals. Moreover, I strengthened my SQL skills and developed the ability to design visualizations and analyses that answer specific business questions and extract valuable insights from raw data.
+>Note: The insights and business recommendations included in this file are based on my own interpretation and analysis of the dataset.
