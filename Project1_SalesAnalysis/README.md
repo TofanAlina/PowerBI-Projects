@@ -2,10 +2,10 @@
 
 This Power BI dashboard structured in 3 pages analyzes sales data, while helping users track revenue growth, product performance and customer buying patterns over time through interactive visualizations.
 ## Table of Contents
-- [Sources and Tutorials](#3.sources-and-tutorials)
-- [Tools](#tools)
-- [Project Components and Personal Contributions](#project-components-and-personal-contributions)
-- [Conclusions And Business Recommendations](#conclusions-and-business-recommendations)
+- [Sources and Tutorials](#1-sources-and-tutorials)
+- [Tools](#2-tools)
+- [Project Components and Personal Contributions](#3-project-components-and-personal-contributions)
+- [Conclusions And Business Recommendations](#4-conclusions-and-business-recommendations)
 - [Personal Reflection](#personal-reflection)
   
 ### 1. Sources and Tutorials
